@@ -24,7 +24,7 @@ public class ProductController {
 	
 	
 	@Autowired
-	public com.example.demo.Service.ProductService  ProductService;
+	public com.example.demo.Service.ProductService  productService;
 	
 	@Configuration
 	public static class Config{
