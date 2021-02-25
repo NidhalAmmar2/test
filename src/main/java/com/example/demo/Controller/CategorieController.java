@@ -23,7 +23,7 @@ import com.example.demo.Models.Categorie;
 public class CategorieController {
 	
 	@Autowired
-	public com.example.demo.Service.CategorieService categorieService;
+	public com.example.demo.Service.CategorieService CategorieService;
 	
 	
 	@Configuration
